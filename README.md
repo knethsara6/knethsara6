@@ -6,8 +6,6 @@
 
 ### IT Undergraduate
 
-**Just Code It.**
-
 Building meaningful software while learning, experimenting, and solving problems.
 
 </div>
