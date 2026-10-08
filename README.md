@@ -29,6 +29,12 @@ I'm always interested in exploring new technologies, building projects, and impr
 
 <div align="center">
 
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+
+
 <a href="https://github.com/knethsara6">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -40,36 +46,24 @@ I'm always interested in exploring new technologies, building projects, and impr
 </div>
 
 
-
 ## 💻 Tech Stack
 
 <div align="center">
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js" />
+<img src="https://skillicons.dev/icons?i=c,python,html,css,js" />
 
 ### Tools & Technologies
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,figma,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,linux" />
 
 </div>
 
 
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=knethsara6&theme=github-compact&hide_border=true" width="100%"/>
-
-</div>
-
-
-
-<div align="center">
 
 ### ✨ Thanks for visiting my profile!
 
-**Keep coding. Keep learning. Keep building. 🚀**
+
 
 </div>
