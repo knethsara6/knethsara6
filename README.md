@@ -21,7 +21,7 @@ I'm always interested in exploring new technologies, building projects, and impr
 
 <div align="center">
 <h3> Connect </h3>
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/kavisha-nethsara-1734543b2/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
