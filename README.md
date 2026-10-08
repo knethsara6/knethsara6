@@ -2,9 +2,9 @@
 
 <img src="./headerfile.jpg" width="100%"/>
 
-# Hello 👋, I'm Kavisha
+<h1>Hello 👋, I'm Kavisha</h1>
 
-### IT Undergraduate
+<h3> IT Undergraduate</h3>
 
 Building meaningful software while learning, experimenting, and solving problems.
 
@@ -12,7 +12,7 @@ Building meaningful software while learning, experimenting, and solving problems
 
 
 
-## 🚀 About Me
+<h2>🚀 About Me</h2>
 
 I'm **Kavisha Nethsara**, an IT undergraduate at the **University of Moratuwa**.
 
@@ -25,7 +25,7 @@ I'm always interested in exploring new technologies, building projects, and impr
 
 
 
-## 🤝 Connect
+<h2>🤝 Connect</h2>
 
 <div align="center">
 
@@ -46,15 +46,15 @@ I'm always interested in exploring new technologies, building projects, and impr
 </div>
 
 
-## 💻 Tech Stack
+<h2> 💻 Tech Stack</h2>
 
 <div align="center">
 
-### Languages
+<h3> Languages</h3>
 
 <img src="https://skillicons.dev/icons?i=c,python,html,css,js" />
 
-### Tools & Technologies
+<h3>Tools & Technologies</h3>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,linux" />
 
@@ -62,7 +62,7 @@ I'm always interested in exploring new technologies, building projects, and impr
 
 
 
-### ✨ Thanks for visiting my profile!
+<h3> ✨ Thanks for visiting my profile!</h3>
 
 
 
