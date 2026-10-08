@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./headerfile" width="100%"/>
+<img src="./headerfile.jpg" width="100%"/>
 
 # Hello 👋, I'm Kavisha
 
