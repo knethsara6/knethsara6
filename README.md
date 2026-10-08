@@ -11,9 +11,6 @@ Building meaningful software while learning, experimenting, and solving problems
 </div>
 
 
-
-<h2>🚀 About Me</h2>
-
 I'm **Kavisha Nethsara**, an IT undergraduate at the **University of Moratuwa**.
 
 I enjoy learning how software works from the fundamentals and turning ideas into working projects.
@@ -22,10 +19,7 @@ Currently, I'm strengthening my knowledge in **C programming, Data Structures & 
 
 I'm always interested in exploring new technologies, building projects, and improving my problem-solving skills.
 
-
-
-
-<h2>🤝 Connect</h2>
+<h3> Connect </h3>
 
 <div align="center">
 
@@ -45,8 +39,6 @@ I'm always interested in exploring new technologies, building projects, and impr
 
 </div>
 
-
-<h2> 💻 Tech Stack</h2>
 
 <div align="center">
 
