@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kavisha%20Nethsara&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="./profileHeader.jpg" width="100%"/>
 
 # Hello 👋, I'm Kavisha
 
