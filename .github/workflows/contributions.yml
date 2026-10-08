@@ -1,7 +1,12 @@
 name: Update Contributions
 
 on:
+  push:
+    branches:
+      - main
+
   workflow_dispatch:
+
   schedule:
     - cron: "0 0 * * *"
 
