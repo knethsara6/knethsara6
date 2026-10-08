@@ -10,15 +10,16 @@ Building meaningful software while learning, experimenting, and solving problems
 
 </div>
 
+<div align="center">
 
 I'm **Kavisha Nethsara**, an IT undergraduate at the **University of Moratuwa**.
 
 I enjoy learning how software works from the fundamentals and turning ideas into working projects.
 
-Currently, I'm strengthening my knowledge in **C programming, Data Structures & Algorithms, Web Development, Databases, and Software Engineering**.
+Currently, I'm strengthening my knowledge in **C programming, Data Structures & Algorithms, Web Development, Databases,**.
 
 I'm always interested in exploring new technologies, building projects, and improving my problem-solving skills.
-
+</div>
 <div align="center">
 <h3> Connect </h3>
 <a href="https://www.linkedin.com/in/kavisha-nethsara-1734543b2/">
