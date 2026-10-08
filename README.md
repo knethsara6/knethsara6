@@ -19,10 +19,8 @@ Currently, I'm strengthening my knowledge in **C programming, Data Structures & 
 
 I'm always interested in exploring new technologies, building projects, and improving my problem-solving skills.
 
-<h3> Connect </h3>
-
 <div align="center">
-
+<h3> Connect </h3>
 <a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
